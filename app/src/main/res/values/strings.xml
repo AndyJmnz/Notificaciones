@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica01Notificaciones</string>
+
+    <string name="descripcion">En Radiant Skin Care, nos especializamos en
+        ofrecer productos de alta calidad para el cuidado de la piel, formulados con
+        ingredientes naturales y eficaces. Nuestro compromiso es ayudarte a lograr una piel
+        radiante y saludable con soluciones innovadoras y personalizadas para cada tipo de piel.</string>
+
+    <string name="default_notification_channel_id">notification_channel</string>
+    <string name="msg_token_fmt">token</string>
+    <string name="fcm_message">Firebase</string>
+</resources>

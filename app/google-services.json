@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57935203379",
+    "project_id": "notificaciones-108f9",
+    "storage_bucket": "notificaciones-108f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57935203379:android:f81d2100b7e5ee9a84e746",
+        "android_client_info": {
+          "package_name": "com.example.practica01notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-uPaXochjx86d2C2EVuJ3yIlpgI6SecY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
